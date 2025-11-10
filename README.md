@@ -77,6 +77,6 @@ The core logic for displaying the time resides in a simple script block within `
 
 ### ✍️ Author
 
-  * **Arjun Dipunath** - (You can add your GitHub profile link here)
+  * **Arjun Dipunath**
 
 -----
